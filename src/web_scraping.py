@@ -3,7 +3,7 @@ import os
 
 from playwright.async_api import async_playwright
 
-from src.constants import ELEMENTS_TO_HIDE, GRAPH_LIST, PROJECT_FOLDER
+from src.constants import PROJECT_FOLDER
 
 
 async def screenshot_graphs():
@@ -27,7 +27,14 @@ async def screenshot_graphs():
     Note:
         This function requires the Playwright library and a JSON file named "municipios.json" in the "data" directory.
     """
-    
+    GRAPH_LIST = [
+        "p03*dv003b002_A.A",
+        "p03*dv003b003_A.B",
+        "p03*dv003b004_A.C",
+    ]
+
+    ELEMENTS_TO_HIDE = [".datavizHeader>a", ".no-display.filter-axis"]
+
     with open(f"{PROJECT_FOLDER}/data/municipios.json", "r", encoding="utf-8") as file:
         data = json.load(file)
     
