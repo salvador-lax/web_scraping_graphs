@@ -22,7 +22,7 @@
         },
         {
             "id": "01008",
-            "nombre": "Arratzua-Ubarrundia"
+            "nombre": "Arrazua-Ubarrundia"
         },
         {
             "id": "01009",
@@ -30,11 +30,11 @@
         },
         {
             "id": "01010",
-            "nombre": "Ayala/Aiara"
+            "nombre": "Ayala-Aiara"
         },
         {
             "id": "01011",
-            "nombre": "Baños de Ebro/Mañueta"
+            "nombre": "Baños de Ebro Mañueta"
         },
         {
             "id": "01013",
@@ -50,7 +50,7 @@
         },
         {
             "id": "01017",
-            "nombre": "Campezo/Kanpezu"
+            "nombre": "Campezo-Kanpezu"
         },
         {
             "id": "01018",
@@ -66,7 +66,7 @@
         },
         {
             "id": "01021",
-            "nombre": "Elburgo/Burgelu"
+            "nombre": "Elburgo-Burgelu"
         },
         {
             "id": "01022",
@@ -74,15 +74,15 @@
         },
         {
             "id": "01023",
-            "nombre": "Elvillar/Bilar"
+            "nombre": "Elvillar-Bilar"
         },
         {
             "id": "01027",
-            "nombre": "Iruraiz-Gauna"
+            "nombre": "Iruraiz"
         },
         {
             "id": "01028",
-            "nombre": "Labastida/Bastida"
+            "nombre": "Labastida"
         },
         {
             "id": "01030",
@@ -94,7 +94,7 @@
         },
         {
             "id": "01032",
-            "nombre": "Lanciego/Lantziego"
+            "nombre": "Lanciego"
         },
         {
             "id": "01033",
@@ -106,7 +106,7 @@
         },
         {
             "id": "01036",
-            "nombre": "Laudio/Llodio"
+            "nombre": "Laudio"
         },
         {
             "id": "01037",
@@ -114,7 +114,7 @@
         },
         {
             "id": "01039",
-            "nombre": "Moreda de Álava/Moreda Araba"
+            "nombre": "Moreda de Álava"
         },
         {
             "id": "01041",
@@ -134,11 +134,11 @@
         },
         {
             "id": "01046",
-            "nombre": "Erriberagoitia/Ribera Alta"
+            "nombre": "Ribera Alta"
         },
         {
             "id": "01047",
-            "nombre": "Erriberabeitia"
+            "nombre": "Ribera Baja-Erribera Beitia"
         },
         {
             "id": "01049",
@@ -146,7 +146,7 @@
         },
         {
             "id": "01051",
-            "nombre": "Agurain/Salvatierra"
+            "nombre": "Salvatierra-Agurain"
         },
         {
             "id": "01052",
@@ -154,7 +154,7 @@
         },
         {
             "id": "01053",
-            "nombre": "San Millán/Donemiliaga"
+            "nombre": "San Millán"
         },
         {
             "id": "01054",
@@ -162,19 +162,19 @@
         },
         {
             "id": "01055",
-            "nombre": "Valdegovía/Gaubea"
+            "nombre": "Valdegovía-Gaubea"
         },
         {
             "id": "01056",
-            "nombre": "Harana/Valle de Arana"
+            "nombre": "Harana-Valle de Arana"
         },
         {
             "id": "01057",
-            "nombre": "Villabuena de Álava/Eskuernaga"
+            "nombre": "Villabuena de Álava-Eskuernaga"
         },
         {
             "id": "01058",
-            "nombre": "Legutio"
+            "nombre": "Legutiano"
         },
         {
             "id": "01059",
@@ -182,7 +182,7 @@
         },
         {
             "id": "01060",
-            "nombre": "Yécora/Iekora"
+            "nombre": "Yécora-Iekora"
         },
         {
             "id": "01061",
@@ -198,7 +198,7 @@
         },
         {
             "id": "01901",
-            "nombre": "Iruña Oka/Iruña de Oca"
+            "nombre": "Iruña Oka-Iruña de Oca"
         },
         {
             "id": "01902",
@@ -258,7 +258,7 @@
         },
         {
             "id": "02014",
-            "nombre": "Ballestero, El"
+            "nombre": "El Ballestero"
         },
         {
             "id": "02015",
@@ -278,7 +278,7 @@
         },
         {
             "id": "02019",
-            "nombre": "Bonillo, El"
+            "nombre": "El Bonillo"
         },
         {
             "id": "02020",
@@ -342,7 +342,7 @@
         },
         {
             "id": "02035",
-            "nombre": "Gineta, La"
+            "nombre": "La Gineta"
         },
         {
             "id": "02036",
@@ -354,7 +354,7 @@
         },
         {
             "id": "02038",
-            "nombre": "Herrera, La"
+            "nombre": "La Herrera"
         },
         {
             "id": "02039",
@@ -554,7 +554,7 @@
         },
         {
             "id": "03001",
-            "nombre": "Atzúbia, l'"
+            "nombre": "Adsubia"
         },
         {
             "id": "03002",
@@ -594,7 +594,7 @@
         },
         {
             "id": "03011",
-            "nombre": "Alfàs del Pi, l'"
+            "nombre": "Alfaz del Pi"
         },
         {
             "id": "03012",
@@ -618,7 +618,7 @@
         },
         {
             "id": "03017",
-            "nombre": "Alqueria d'Asnar, l'"
+            "nombre": "Alqueria d Asnar l"
         },
         {
             "id": "03018",
@@ -718,7 +718,7 @@
         },
         {
             "id": "03042",
-            "nombre": "Benitachell/Poble Nou de Benitatxell, el"
+            "nombre": "Benitachell"
         },
         {
             "id": "03043",
@@ -742,7 +742,7 @@
         },
         {
             "id": "03048",
-            "nombre": "Callosa d'en Sarrià"
+            "nombre": "Callosa d En Sarrià"
         },
         {
             "id": "03049",
@@ -750,11 +750,11 @@
         },
         {
             "id": "03050",
-            "nombre": "Campello, el"
+            "nombre": "El Campello"
         },
         {
             "id": "03051",
-            "nombre": "Campo de Mirra/Camp de Mirra, el"
+            "nombre": "Campo de Mirra"
         },
         {
             "id": "03052",
@@ -850,7 +850,7 @@
         },
         {
             "id": "03075",
-            "nombre": "Castell de Guadalest, el"
+            "nombre": "El Castell de Guadalest"
         },
         {
             "id": "03076",
@@ -858,7 +858,11 @@
         },
         {
             "id": "03077",
-            "nombre": "Fondó de les Neus, el/Hondón de las Nieves"
+            "nombre": "El Fondó de les Neus"
+        },
+        {
+            "id": "03077",
+            "nombre": "Hondón de las Nieves"
         },
         {
             "id": "03078",
@@ -874,19 +878,19 @@
         },
         {
             "id": "03081",
-            "nombre": "Xaló"
+            "nombre": "Jalón-Xaló"
         },
         {
             "id": "03082",
-            "nombre": "Jávea/Xàbia"
+            "nombre": "Jávea-Xàbia"
         },
         {
             "id": "03083",
-            "nombre": "Jijona/Xixona"
+            "nombre": "Jijona-Xixona"
         },
         {
             "id": "03084",
-            "nombre": "Lorcha/Orxa, l'"
+            "nombre": "Lorcha-Orxa L"
         },
         {
             "id": "03085",
@@ -966,7 +970,11 @@
         },
         {
             "id": "03105",
-            "nombre": "Pinós, el/Pinoso"
+            "nombre": "El Pinós/Pinoso"
+        },
+        {
+            "id": "03105",
+            "nombre": "Pinoso"
         },
         {
             "id": "03106",
@@ -982,7 +990,7 @@
         },
         {
             "id": "03110",
-            "nombre": "Ràfol d'Almúnia, el"
+            "nombre": "El Ràfol d Almúnia"
         },
         {
             "id": "03111",
@@ -1018,7 +1026,7 @@
         },
         {
             "id": "03119",
-            "nombre": "Sant Joan d'Alacant"
+            "nombre": "San Juan de Alicante"
         },
         {
             "id": "03120",
@@ -1074,11 +1082,11 @@
         },
         {
             "id": "03134",
-            "nombre": "Vall d'Alcalà, la"
+            "nombre": "La Vall d Alcalà"
         },
         {
             "id": "03135",
-            "nombre": "Vall d'Ebo, la"
+            "nombre": "Vall de Ebo"
         },
         {
             "id": "03136",
@@ -1090,7 +1098,7 @@
         },
         {
             "id": "03138",
-            "nombre": "Verger, el"
+            "nombre": "El Verger"
         },
         {
             "id": "03139",
@@ -1102,7 +1110,7 @@
         },
         {
             "id": "03901",
-            "nombre": "Poblets, els"
+            "nombre": "Els Poblets"
         },
         {
             "id": "03902",
@@ -1518,7 +1526,7 @@
         },
         {
             "id": "04902",
-            "nombre": "Ejido, El"
+            "nombre": "El Ejido"
         },
         {
             "id": "04903",
@@ -1558,7 +1566,7 @@
         },
         {
             "id": "05013",
-            "nombre": "Arenal, El"
+            "nombre": "El Arenal"
         },
         {
             "id": "05014",
@@ -1586,11 +1594,11 @@
         },
         {
             "id": "05021",
-            "nombre": "Barco de Ávila, El"
+            "nombre": "El Barco de Ávila"
         },
         {
             "id": "05022",
-            "nombre": "Barraco, El"
+            "nombre": "El Barraco"
         },
         {
             "id": "05023",
@@ -1634,7 +1642,7 @@
         },
         {
             "id": "05036",
-            "nombre": "Bohodón, El"
+            "nombre": "El Bohodón"
         },
         {
             "id": "05037",
@@ -1782,7 +1790,7 @@
         },
         {
             "id": "05076",
-            "nombre": "Fresno, El"
+            "nombre": "El Fresno"
         },
         {
             "id": "05077",
@@ -1870,7 +1878,7 @@
         },
         {
             "id": "05100",
-            "nombre": "Hornillo, El"
+            "nombre": "El Hornillo"
         },
         {
             "id": "05101",
@@ -1878,7 +1886,7 @@
         },
         {
             "id": "05102",
-            "nombre": "Hoyo de Pinares, El"
+            "nombre": "El Hoyo de Pinares"
         },
         {
             "id": "05103",
@@ -1914,7 +1922,7 @@
         },
         {
             "id": "05112",
-            "nombre": "Losar del Barco, El"
+            "nombre": "El Losar del Barco"
         },
         {
             "id": "05113",
@@ -1982,7 +1990,7 @@
         },
         {
             "id": "05129",
-            "nombre": "Mirón, El"
+            "nombre": "El Mirón"
         },
         {
             "id": "05130",
@@ -2154,7 +2162,7 @@
         },
         {
             "id": "05175",
-            "nombre": "Oso, El"
+            "nombre": "El Oso"
         },
         {
             "id": "05176",
@@ -2174,7 +2182,7 @@
         },
         {
             "id": "05180",
-            "nombre": "Parral, El"
+            "nombre": "El Parral"
         },
         {
             "id": "05181",
@@ -2406,7 +2414,7 @@
         },
         {
             "id": "05241",
-            "nombre": "Tiemblo, El"
+            "nombre": "El Tiemblo"
         },
         {
             "id": "05242",
@@ -2646,7 +2654,7 @@
         },
         {
             "id": "06032",
-            "nombre": "Carrascalejo, El"
+            "nombre": "El Carrascalejo"
         },
         {
             "id": "06033",
@@ -3466,7 +3474,7 @@
         },
         {
             "id": "08005",
-            "nombre": "Ametlla del Vallès, L'"
+            "nombre": "Ametlla del Vallès l"
         },
         {
             "id": "08006",
@@ -3546,19 +3554,19 @@
         },
         {
             "id": "08025",
-            "nombre": "Bruc, El"
+            "nombre": "El Bruc"
         },
         {
             "id": "08026",
-            "nombre": "Brull, El"
+            "nombre": "El Brull"
         },
         {
             "id": "08027",
-            "nombre": "Cabanyes, Les"
+            "nombre": "Les Cabanyes"
         },
         {
             "id": "08028",
-            "nombre": "Cabrera d'Anoia"
+            "nombre": "Cabrera d´Anoia"
         },
         {
             "id": "08029",
@@ -3574,7 +3582,7 @@
         },
         {
             "id": "08032",
-            "nombre": "Caldes d'Estrac"
+            "nombre": "Caldes d Estrac"
         },
         {
             "id": "08033",
@@ -3654,7 +3662,7 @@
         },
         {
             "id": "08052",
-            "nombre": "Castellar de n'Hug"
+            "nombre": "Castellar de N hug"
         },
         {
             "id": "08053",
@@ -3674,7 +3682,7 @@
         },
         {
             "id": "08057",
-            "nombre": "Castell de l'Areny"
+            "nombre": "Castell de l Areny"
         },
         {
             "id": "08058",
@@ -3758,11 +3766,11 @@
         },
         {
             "id": "08078",
-            "nombre": "Espunyola, L'"
+            "nombre": "Espunyola l"
         },
         {
             "id": "08079",
-            "nombre": "Estany, L'"
+            "nombre": "Estany l"
         },
         {
             "id": "08080",
@@ -3850,7 +3858,7 @@
         },
         {
             "id": "08101",
-            "nombre": "Hospitalet de Llobregat, L'"
+            "nombre": "l Hospitalet de Llobregat"
         },
         {
             "id": "08102",
@@ -3874,7 +3882,7 @@
         },
         {
             "id": "08107",
-            "nombre": "Lliçà d'Amunt"
+            "nombre": "Lliçà d Amunt"
         },
         {
             "id": "08108",
@@ -3918,7 +3926,7 @@
         },
         {
             "id": "08118",
-            "nombre": "Masnou, El"
+            "nombre": "El Masnou"
         },
         {
             "id": "08119",
@@ -4078,7 +4086,7 @@
         },
         {
             "id": "08158",
-            "nombre": "Papiol, El"
+            "nombre": "El Papiol"
         },
         {
             "id": "08159",
@@ -4326,7 +4334,7 @@
         },
         {
             "id": "08222",
-            "nombre": "Sant Llorenç d'Hortons"
+            "nombre": "Sant Llorenç d Hortons"
         },
         {
             "id": "08223",
@@ -4338,7 +4346,7 @@
         },
         {
             "id": "08225",
-            "nombre": "Sant Martí d'Albars"
+            "nombre": "Sant Martí d Albars"
         },
         {
             "id": "08226",
@@ -4398,11 +4406,11 @@
         },
         {
             "id": "08240",
-            "nombre": "Sant Sadurní d'Anoia"
+            "nombre": "Sant Sadurní d Anoia"
         },
         {
             "id": "08241",
-            "nombre": "Sant Sadurní d'Osormort"
+            "nombre": "Sant Sadurní d Osormort"
         },
         {
             "id": "08242",
@@ -4470,7 +4478,7 @@
         },
         {
             "id": "08258",
-            "nombre": "Santa Maria d'Oló"
+            "nombre": "Santa Maria d Oló"
         },
         {
             "id": "08259",
@@ -4606,7 +4614,7 @@
         },
         {
             "id": "08292",
-            "nombre": "Vallbona d'Anoia"
+            "nombre": "Vallbona d Anoia"
         },
         {
             "id": "08293",
@@ -7266,7 +7274,7 @@
         },
         {
             "id": "12005",
-            "nombre": "Alcora, l'"
+            "nombre": "Alcora"
         },
         {
             "id": "12006",
@@ -7690,7 +7698,7 @@
         },
         {
             "id": "12120",
-            "nombre": "Torre d'en Doménec, la"
+            "nombre": "Torre Endoménech"
         },
         {
             "id": "12121",
@@ -7706,7 +7714,7 @@
         },
         {
             "id": "12124",
-            "nombre": "Vall d'Alba"
+            "nombre": "Vall d Alba"
         },
         {
             "id": "12125",
@@ -7714,7 +7722,7 @@
         },
         {
             "id": "12126",
-            "nombre": "Vall d'Uixó, la"
+            "nombre": "Vall d Uixó"
         },
         {
             "id": "12127",
@@ -7738,7 +7746,7 @@
         },
         {
             "id": "12132",
-            "nombre": "Vilanova d'Alcolea"
+            "nombre": "Vilanova d Alcolea"
         },
         {
             "id": "12133",
@@ -9846,7 +9854,7 @@
         },
         {
             "id": "17005",
-            "nombre": "Far d'Empordà, El"
+            "nombre": "El Far d´Empordà"
         },
         {
             "id": "17006",
@@ -9870,7 +9878,7 @@
         },
         {
             "id": "17011",
-            "nombre": "Armentera, L'"
+            "nombre": "Armentera l"
         },
         {
             "id": "17012",
@@ -9894,7 +9902,7 @@
         },
         {
             "id": "17018",
-            "nombre": "Bellcaire d'Empordà"
+            "nombre": "Bellcaire d Empordà"
         },
         {
             "id": "17019",
@@ -9910,7 +9918,7 @@
         },
         {
             "id": "17022",
-            "nombre": "Bisbal d'Empordà, La"
+            "nombre": "La Bisbal D’Empordà"
         },
         {
             "id": "17023",
@@ -9982,7 +9990,7 @@
         },
         {
             "id": "17040",
-            "nombre": "Canet d'Adri"
+            "nombre": "Canet d Adri"
         },
         {
             "id": "17041",
@@ -10006,11 +10014,11 @@
         },
         {
             "id": "17047",
-            "nombre": "Castelló d'Empúries"
+            "nombre": "Castelló d Empúries"
         },
         {
             "id": "17048",
-            "nombre": "Castell-Platja d'Aro"
+            "nombre": "Castell-Platja d´Aro"
         },
         {
             "id": "17049",
@@ -10058,7 +10066,7 @@
         },
         {
             "id": "17062",
-            "nombre": "Escala, L'"
+            "nombre": "L´Escala"
         },
         {
             "id": "17063",
@@ -10498,11 +10506,11 @@
         },
         {
             "id": "17181",
-            "nombre": "Santa Cristina d'Aro"
+            "nombre": "Santa Cristina D´aro"
         },
         {
             "id": "17182",
-            "nombre": "Santa Llogaia d'Àlguema"
+            "nombre": "Santa Llogaia d Àlguema"
         },
         {
             "id": "17183",
@@ -10554,7 +10562,7 @@
         },
         {
             "id": "17195",
-            "nombre": "Tallada d'Empordà, La"
+            "nombre": "La Tallada"
         },
         {
             "id": "17196",
@@ -10606,7 +10614,7 @@
         },
         {
             "id": "17208",
-            "nombre": "Vall de Bianya, La"
+            "nombre": "La Vall de Bianya"
         },
         {
             "id": "17209",
@@ -10694,7 +10702,7 @@
         },
         {
             "id": "17233",
-            "nombre": "Vilobí d'Onyar"
+            "nombre": "Vilobí d Onyar"
         },
         {
             "id": "17234",
@@ -10702,7 +10710,7 @@
         },
         {
             "id": "17901",
-            "nombre": "Cruïlles, Monells i Sant Sadurní de l'Heura"
+            "nombre": "Cruïlles Monells i Sant Sadurní de l He"
         },
         {
             "id": "17902",
@@ -15294,7 +15302,7 @@
         },
         {
             "id": "25006",
-            "nombre": "Albagés, L'"
+            "nombre": "Albagés l"
         },
         {
             "id": "25007",
@@ -15306,7 +15314,7 @@
         },
         {
             "id": "25009",
-            "nombre": "Albi, L'"
+            "nombre": "Albi l"
         },
         {
             "id": "25010",
@@ -15446,15 +15454,15 @@
         },
         {
             "id": "25047",
-            "nombre": "Bellcaire d'Urgell"
+            "nombre": "Bellcaire d Urgell"
         },
         {
             "id": "25048",
-            "nombre": "Bell-lloc d'Urgell"
+            "nombre": "Bell-Lloc d Urgell"
         },
         {
             "id": "25049",
-            "nombre": "Bellmunt d'Urgell"
+            "nombre": "Bellmunt d Urgell"
         },
         {
             "id": "25050",
@@ -15566,7 +15574,7 @@
         },
         {
             "id": "25081",
-            "nombre": "Espluga Calba, L'"
+            "nombre": "Espluga Calba l"
         },
         {
             "id": "25082",
@@ -15578,7 +15586,7 @@
         },
         {
             "id": "25086",
-            "nombre": "Esterri d'Àneu"
+            "nombre": "Esterri d Àneu"
         },
         {
             "id": "25087",
@@ -15630,7 +15638,7 @@
         },
         {
             "id": "25102",
-            "nombre": "Granja d'Escarp, La"
+            "nombre": "La Granja d´Escarp"
         },
         {
             "id": "25103",
@@ -15662,7 +15670,7 @@
         },
         {
             "id": "25113",
-            "nombre": "Ivars d'Urgell"
+            "nombre": "Ivars d Urgell"
         },
         {
             "id": "25114",
@@ -15826,7 +15834,7 @@
         },
         {
             "id": "25158",
-            "nombre": "Palau d'Anglesola, El"
+            "nombre": "Palau de Anglesola"
         },
         {
             "id": "25161",
@@ -15902,7 +15910,7 @@
         },
         {
             "id": "25181",
-            "nombre": "Puigverd d'Agramunt"
+            "nombre": "Puigverd d Agramunt"
         },
         {
             "id": "25182",
@@ -15914,7 +15922,7 @@
         },
         {
             "id": "25185",
-            "nombre": "Ribera d'Urgellet"
+            "nombre": "Ribera D Urgellet"
         },
         {
             "id": "25186",
@@ -15966,7 +15974,7 @@
         },
         {
             "id": "25203",
-            "nombre": "Seu d'Urgell, La"
+            "nombre": "La Seu d´Urgell"
         },
         {
             "id": "25204",
@@ -16118,7 +16126,7 @@
         },
         {
             "id": "25249",
-            "nombre": "Vilanova de l'Aguda"
+            "nombre": "Vilanova de l Aguda"
         },
         {
             "id": "25250",
@@ -16162,7 +16170,7 @@
         },
         {
             "id": "25905",
-            "nombre": "Ribera d'Ondara"
+            "nombre": "Ribera d´Ondara"
         },
         {
             "id": "25906",
@@ -25454,7 +25462,7 @@
         },
         {
             "id": "43003",
-            "nombre": "Albiol, L'"
+            "nombre": "Albiol l"
         },
         {
             "id": "43004",
@@ -25470,7 +25478,7 @@
         },
         {
             "id": "43007",
-            "nombre": "Aleixar, L'"
+            "nombre": "Aleixar l"
         },
         {
             "id": "43008",
@@ -25494,7 +25502,7 @@
         },
         {
             "id": "43013",
-            "nombre": "Ametlla de Mar, L'"
+            "nombre": "L´Ametlla de Mar"
         },
         {
             "id": "43014",
@@ -25506,11 +25514,11 @@
         },
         {
             "id": "43016",
-            "nombre": "Arboç, L'"
+            "nombre": "Arboç l"
         },
         {
             "id": "43017",
-            "nombre": "Argentera, L'"
+            "nombre": "Argentera l"
         },
         {
             "id": "43018",
@@ -25634,7 +25642,7 @@
         },
         {
             "id": "43048",
-            "nombre": "Corbera d'Ebre"
+            "nombre": "Corbera d Ebre"
         },
         {
             "id": "43049",
@@ -25658,7 +25666,7 @@
         },
         {
             "id": "43054",
-            "nombre": "Espluga de Francolí, L'"
+            "nombre": "Espluga de Francolí l"
         },
         {
             "id": "43055",
@@ -25810,7 +25818,7 @@
         },
         {
             "id": "43093",
-            "nombre": "Móra d'Ebre"
+            "nombre": "Móra d Ebre"
         },
         {
             "id": "43094",
@@ -25938,7 +25946,7 @@
         },
         {
             "id": "43125",
-            "nombre": "Riba-roja d'Ebre"
+            "nombre": "Riba-Roja d Ebre"
         },
         {
             "id": "43126",
@@ -26086,7 +26094,7 @@
         },
         {
             "id": "43162",
-            "nombre": "Vandellòs i l'Hospitalet de l'Infant"
+            "nombre": "Vandellòs i l Hospitalet de l Infant"
         },
         {
             "id": "43163",
@@ -26106,7 +26114,7 @@
         },
         {
             "id": "43167",
-            "nombre": "Vilanova d'Escornalbou"
+            "nombre": "Vilanova d Escornalbou"
         },
         {
             "id": "43168",
@@ -26158,7 +26166,7 @@
         },
         {
             "id": "43902",
-            "nombre": "Sant Jaume d'Enveja"
+            "nombre": "Sant Jaume d Enveja"
         },
         {
             "id": "43903",
@@ -26166,7 +26174,7 @@
         },
         {
             "id": "43904",
-            "nombre": "Aldea, L'"
+            "nombre": "Aldea l"
         },
         {
             "id": "43905",
@@ -26174,7 +26182,7 @@
         },
         {
             "id": "43906",
-            "nombre": "Ampolla, L'"
+            "nombre": "Ampolla l"
         },
         {
             "id": "43907",
@@ -27950,7 +27958,7 @@
         },
         {
             "id": "46003",
-            "nombre": "Atzeneta d'Albaida"
+            "nombre": "Atzeneta d Albaida"
         },
         {
             "id": "46004",
@@ -28014,11 +28022,11 @@
         },
         {
             "id": "46019",
-            "nombre": "Alcúdia, l'"
+            "nombre": "Alcúdia l"
         },
         {
             "id": "46020",
-            "nombre": "Alcúdia de Crespins, l'"
+            "nombre": "Alcúdia de Crespins l"
         },
         {
             "id": "46021",
@@ -28058,7 +28066,7 @@
         },
         {
             "id": "46030",
-            "nombre": "Algímia d'Alfara"
+            "nombre": "Alfara de Algimia"
         },
         {
             "id": "46031",
@@ -28086,7 +28094,7 @@
         },
         {
             "id": "46037",
-            "nombre": "Alqueria de la Comtessa, l'"
+            "nombre": "Alqueria de la Comtessa l"
         },
         {
             "id": "46038",
@@ -28266,7 +28274,7 @@
         },
         {
             "id": "46082",
-            "nombre": "Canet d'En Berenguer"
+            "nombre": "Canet d En Berenguer"
         },
         {
             "id": "46083",
@@ -28402,7 +28410,7 @@
         },
         {
             "id": "46116",
-            "nombre": "Eliana, l'"
+            "nombre": "L´Eliana"
         },
         {
             "id": "46117",
@@ -28414,7 +28422,7 @@
         },
         {
             "id": "46119",
-            "nombre": "Ènova, l'"
+            "nombre": "Ènova l"
         },
         {
             "id": "46120",
@@ -28446,7 +28454,7 @@
         },
         {
             "id": "46127",
-            "nombre": "Font d'En Carròs, la"
+            "nombre": "La Font d en Carròs"
         },
         {
             "id": "46128",
@@ -28542,7 +28550,7 @@
         },
         {
             "id": "46151",
-            "nombre": "Llocnou d'En Fenollet"
+            "nombre": "Llocnou d En Fenollet"
         },
         {
             "id": "46152",
@@ -28670,7 +28678,7 @@
         },
         {
             "id": "46183",
-            "nombre": "Olleria, l'"
+            "nombre": "Olleria l"
         },
         {
             "id": "46184",
