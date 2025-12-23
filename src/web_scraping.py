@@ -2,11 +2,10 @@ import json
 import os
 
 from playwright.async_api import async_playwright
-
 from src.constants import PROJECT_FOLDER
 
 
-async def screenshot_graphs():
+async def screenshot_graphs(municipioSelected: str = ""):
     """
     Takes screenshots of specific graphs for each municipality listed in a JSON file.
     This function performs the following steps:
@@ -37,9 +36,21 @@ async def screenshot_graphs():
 
     with open(f"{PROJECT_FOLDER}/data/municipios.json", "r", encoding="utf-8") as file:
         data = json.load(file)
-    
+
     municipios = data.get("municipio", [])
-    
+
+    # ──► Filter if a specific municipio was requested
+    if municipioSelected:
+        municipios = [
+            m
+            for m in municipios
+            if str(m.get("id")) == municipioSelected
+            or m.get("nombre") == municipioSelected
+        ]
+
+    if not municipios:
+        raise ValueError(f'No matching municipio found for "{municipioSelected}".')
+
     async with async_playwright() as p:
         browser = await p.webkit.launch(headless=True)
         context = await browser.new_context(
